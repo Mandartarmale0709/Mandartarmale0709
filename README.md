@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, SQL , Data Science & Analytics**
 
-- 📫 How to reach me **tarmalemandar@gmail.com**
+- 📫 How to reach me **mandar.tarmale@xaviers.edu.in**
 
 - ⚡ Fun fact **I think I am funny**
 
