@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Myself Mandar Tarmale</h1>
 <h3 align="center">MSC Big data Analytics Student | SXC'25 | A passionate data analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandartarmale0709&label=Profile%20views&color=0e75b6&style=flat" alt="mandartarmale0709" /> </p>
+<p align="left">  </p>
 
 - 🌱 I’m currently learning **Python for upskilling in Data Science Domain**
 
